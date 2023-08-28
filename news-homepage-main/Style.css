@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body,html{
-   width: 375px;
+   width: 100%;
    font-family: 'Inter', sans-serif;
    padding: 15px;
  
